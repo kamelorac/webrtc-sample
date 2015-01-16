@@ -1,0 +1,13 @@
+browsers*
+.eslintcache
+firefox-*.tar.bz2
+node_modules
+.DS_Store
+validation-report.json
+validation-status.json
+.idea
+firefox_profile/*
+tests_output
+*.log
+*~
+\#*#
